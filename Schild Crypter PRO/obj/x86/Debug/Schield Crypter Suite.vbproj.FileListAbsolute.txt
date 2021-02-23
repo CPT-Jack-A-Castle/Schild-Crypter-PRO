@@ -1,0 +1,27 @@
+C:\Users\0000\AppData\Local\Temporary Projects\Schield Crypter Suite\bin\Debug\Schield Crypter Suite.exe
+C:\Users\0000\AppData\Local\Temporary Projects\Schield Crypter Suite\bin\Debug\Schield Crypter Suite.pdb
+C:\Users\0000\AppData\Local\Temporary Projects\Schield Crypter Suite\bin\Debug\Schield Crypter Suite.xml
+C:\Users\0000\AppData\Local\Temporary Projects\Schield Crypter Suite\obj\x86\Debug\Schield_Crypter_Suite.Resources.resources
+C:\Users\0000\AppData\Local\Temporary Projects\Schield Crypter Suite\obj\x86\Debug\Schield Crypter Suite.vbproj.GenerateResource.Cache
+C:\Users\0000\AppData\Local\Temporary Projects\Schield Crypter Suite\obj\x86\Debug\Schield Crypter Suite.exe
+C:\Users\0000\AppData\Local\Temporary Projects\Schield Crypter Suite\obj\x86\Debug\Schield Crypter Suite.xml
+C:\Users\0000\AppData\Local\Temporary Projects\Schield Crypter Suite\obj\x86\Debug\Schield Crypter Suite.pdb
+C:\Users\0000\AppData\Local\Temporary Projects\Schield Crypter Suite\obj\x86\Debug\Schield_Crypter_Suite.Form1.resources
+C:\Users\0000\Desktop\Schield Crypter Suite\Schield Crypter Suite\obj\x86\Debug\Schield Crypter Suite.exe
+C:\Users\0000\Desktop\Schield Crypter Suite\Schield Crypter Suite\obj\x86\Debug\Schield Crypter Suite.xml
+C:\Users\0000\Desktop\Schield Crypter Suite\Schield Crypter Suite\obj\x86\Debug\Schield Crypter Suite.pdb
+C:\Users\0000\Desktop\Schield Crypter Suite\Schield Crypter Suite\bin\Debug\Schield Crypter Suite.exe
+C:\Users\0000\Desktop\Schield Crypter Suite\Schield Crypter Suite\bin\Debug\Schield Crypter Suite.pdb
+C:\Users\0000\Desktop\Schield Crypter Suite\Schield Crypter Suite\bin\Debug\Schield Crypter Suite.xml
+C:\Users\0000\Desktop\Schield Crypter Suite\Schield Crypter Suite\obj\x86\Debug\Schield_Crypter_Suite.Form1.resources
+C:\Users\0000\Desktop\Schield Crypter Suite\Schield Crypter Suite\obj\x86\Debug\Schield_Crypter_Suite.Resources.resources
+C:\Users\0000\Desktop\Schield Crypter Suite\Schield Crypter Suite\obj\x86\Debug\Schield Crypter Suite.vbproj.GenerateResource.Cache
+C:\Users\0000\Desktop\Schield Crypter Suite - Copy\Schield Crypter Suite\obj\x86\Debug\Schield Crypter Suite.exe
+C:\Users\0000\Desktop\Schield Crypter Suite - Copy\Schield Crypter Suite\obj\x86\Debug\Schield Crypter Suite.xml
+C:\Users\0000\Desktop\Schield Crypter Suite - Copy\Schield Crypter Suite\obj\x86\Debug\Schield Crypter Suite.pdb
+C:\Users\0000\Desktop\Schield Crypter Suite - Copy\Schield Crypter Suite\bin\Debug\Schield Crypter Suite.exe
+C:\Users\0000\Desktop\Schield Crypter Suite - Copy\Schield Crypter Suite\bin\Debug\Schield Crypter Suite.pdb
+C:\Users\0000\Desktop\Schield Crypter Suite - Copy\Schield Crypter Suite\bin\Debug\Schield Crypter Suite.xml
+C:\Users\0000\Desktop\Schield Crypter Suite - Copy\Schield Crypter Suite\obj\x86\Debug\Schield_Crypter_Suite.Form1.resources
+C:\Users\0000\Desktop\Schield Crypter Suite - Copy\Schield Crypter Suite\obj\x86\Debug\Schield_Crypter_Suite.Resources.resources
+C:\Users\0000\Desktop\Schield Crypter Suite - Copy\Schield Crypter Suite\obj\x86\Debug\Schield Crypter Suite.vbproj.GenerateResource.Cache
